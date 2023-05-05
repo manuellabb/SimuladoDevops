@@ -36,5 +36,5 @@ jobs:
            tags: 1.0, 1.1
            registry: docker.io
            dockerfile: dockerfile
-           username: ${{ manugerminatech }}
-           password: ${{ 30980336813m }}
+           username: ${{ "manugerminatech" }}
+           password: ${{ "30980336813m" }}
